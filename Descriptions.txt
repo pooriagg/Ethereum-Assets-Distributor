@@ -1,0 +1,11 @@
+chains:
+   1) Polygon
+   2) Avalanch c-chain
+   3) Arbitrum
+   4) Fantom
+   5) Bsc
+   6) Optimism
+   7) ZKSync
+   8) Base
+   9) Linea
+ *10) ETHEREUM
